@@ -32,13 +32,15 @@ form{
 .outer-box{
     border: 1px solid var(--blackShade);
     border-radius: 0.25rem;
-    width: 10rem;
+    width: 100%;
     height: 1rem;
+    position: relative;
 }
 
 .inner-box{
     border: 1px solid var(--blackShade);
-    width: 4rem;
+    width: 0rem;
+    transition: width 0.3s;
     height: 0.8rem;
     margin: 1px;
     border-radius: 0.25rem;
