@@ -1,2 +1,2 @@
-##Progress Bar
-This progress bar updates based on the number of items checked off on a list. 
+## Progress Bar
+This progress bar is updated to show progress based on the number of items checked on a list. 
